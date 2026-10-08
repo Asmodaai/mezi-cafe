@@ -1,0 +1,74 @@
+[
+  {
+    "name": "interior-kris",
+    "page": "https://unsplash.com/photos/cozy-cafe-interior-with-wooden-tables-and-plants-q1SgzwmvR1s",
+    "author": "Kris Tian",
+    "base": "https://images.unsplash.com/photo-1755163412328-df3b4c2b172e",
+    "files": [
+      "cafe-corner.webp",
+      "cafe-corner-small.webp"
+    ],
+    "downloaded": "2026-09-16",
+    "license": "https://unsplash.com/license"
+  },
+  {
+    "name": "interior-aurela",
+    "page": "https://unsplash.com/photos/cozy-cafe-interior-with-wooden-accents-and-natural-light-01ozzkoGDFw",
+    "author": "Aurela Redenica",
+    "base": "https://images.unsplash.com/photo-1755884931646-ae6e1d227717",
+    "files": [
+      "cafe-interior.webp",
+      "cafe-interior-small.webp"
+    ],
+    "downloaded": "2026-09-16",
+    "license": "https://unsplash.com/license"
+  },
+  {
+    "name": "coffee-hands",
+    "page": "https://unsplash.com/photos/person-holding-latte-art-LG8_B2TIMV4",
+    "author": "Nathan Dumlao",
+    "base": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9",
+    "files": [
+      "coffee-moment.webp",
+      "coffee-moment-small.webp"
+    ],
+    "downloaded": "2026-09-16",
+    "license": "https://unsplash.com/license"
+  },
+  {
+    "name": "croissant",
+    "page": "https://www.pexels.com/photo/croissant-and-coffee-17366273/",
+    "author": "Bot Delia",
+    "base": "https://images.pexels.com/photos/17366273/pexels-photo-17366273.jpeg",
+    "files": [
+      "morning-croissant.webp",
+      "morning-croissant-small.webp"
+    ],
+    "downloaded": "2026-09-16",
+    "license": "https://www.pexels.com/license/"
+  },
+  {
+    "name": "filter",
+    "page": "https://www.pexels.com/photo/faceless-barista-pouring-water-in-dripper-7125769/",
+    "author": "Michael Burrows",
+    "base": "https://images.pexels.com/photos/7125769/pexels-photo-7125769.jpeg",
+    "files": [
+      "pour-over.webp",
+      "pour-over-small.webp"
+    ],
+    "downloaded": "2026-09-16",
+    "license": "https://www.pexels.com/license/"
+  },
+  {
+    "name": "cheesecake",
+    "page": "https://www.pexels.com/photo/coffee-and-cheesecake-16496285/",
+    "author": "Valeriya Kobzar",
+    "base": "https://images.pexels.com/photos/16496285/pexels-photo-16496285.jpeg",
+    "files": [
+      "coffee-cheesecake.webp",
+      "coffee-cheesecake-small.webp"
+    ],
+    "downloaded": "2026-09-16",
+    "license": "https://www.pexels.com/license/"
+  }
+]

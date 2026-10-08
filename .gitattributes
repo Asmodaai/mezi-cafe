@@ -1,0 +1,5 @@
+* text=auto
+*.png binary
+*.webp binary
+*.ttf binary
+public/assets/fonts/*-OFL.txt -text

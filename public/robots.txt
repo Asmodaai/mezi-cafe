@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mezi.verbastudio.cz/sitemap.xml
